@@ -4,7 +4,7 @@
 <p align="center">
 Olá! Me chamo Arthur Lopes, tenho 18 anos e curso Engenharia de Software na PUC Campinas, atualmente no 1º semestre.
 <br/>
-Antes de entrar no mundo da tecnologia, passei 2 anos como Jovem Aprendiz na área administrativa — experiência que me ensinou organização, trabalho em equipe e a importância de entregar com qualidade. Agora estou aplicando essa mesma postura na construção da minha carreira como desenvolvedor.
+Antes de entrar no mundo da tecnologia, passei 2 anos como Jovem Aprendiz na área administrativa, experiência que me ensinou organização, trabalho em equipe e a importância de entregar qualidade. Agora estou aplicando essa mesma postura na construção da minha carreira como engenheiro de software.
 </p>
 
 ---
@@ -12,9 +12,7 @@ Antes de entrar no mundo da tecnologia, passei 2 anos como Jovem Aprendiz na ár
 ### 🎯 No momento
 
 - 📚 Cursando o 1º semestre de Engenharia de Software
-- 💻 Estudando lógica de programação, fundamentos de Python e Git
 - 🌱 Construindo meus primeiros projetos para colocar em prática o que aprendo
-- 📫 Aberto a oportunidades de **estágio em desenvolvimento**
 
 ---
 
